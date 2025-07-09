@@ -2,13 +2,13 @@
 
 ## Authentic Indian Flavors, On Wheels!
 
-![Truly Desi Splash Image](assets/images/lo.jpg)
+![Truly Desi Splash Image](assets/images/logo_circular.png)
 
 ## Table of Contents
 
 * [1. Project Overview](#1-project-overview)
 * [2. Features](#2-features)
-* [3. Screenshots](#3-screenshots)
+* [3. Detalied Documentation](#3-detailed-documentation)
 * [4. Technologies Used](#4-technologies-used)
 * [5. Installation](#5-installation)
 * [6. Usage](#6-usage)
@@ -90,30 +90,11 @@ The "Truly Desi" app comes packed with the following key features and functional
 
 ---
 
-## 3. Screenshots
+## 3. Detailed Documentation
 
-Here are some screenshots of the "Truly Desi" app in action.
-*(Please add your actual screenshot images here)*
+For a comprehensive breakdown of the app's features, functionalities, navigation flows, and detailed screenshots, please refer to our full documentation:
 
-**Splash Screen**
-
-**Onboarding Screens**
-
-**Home Screen (Light Mode)**
-
-**Menu Screen (Light Mode)**
-
-**Cart Screen**
-
-**Social Media Screen**
-
-**Favorites Screen**
-
-**More & Settings Screen (Dark Mode)**
-
-**About Us & Location Screen**
-
-**Review Submission Screen**
+**[Truly Desi App - Detailed Documentation](Truly Desi App_ Detailed Features, Functionalities, and Navigation Guide.md.pdf)**
 
 ---
 
@@ -246,3 +227,14 @@ Distributed under the MIT License. See LICENSE for more information.
 ## 10. Contact
  Guru Rohith.G - [prasanth9705.g@gmail.com] 
 Project Link: https://github.com/Rohithguru05/Truly-Desi-Food-Truck.git
+
+
+
+## 11. Latest Release (APK)
+To get a runnable Android APK of the "Truly Desi" app, you will need to build the project locally.
+
+After successfully building the project for release, the app-release.apk file will be located in the following path within your project directory:
+
+build/app/outputs/flutter-apk/app-release.apk
+
+You can then copy this file to an Android device for installation. (A formal GitHub Release will be provided at a later stage.)
