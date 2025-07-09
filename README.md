@@ -1,4 +1,4 @@
-# truly_desi_app
+# Truly Desi App
 
 A new Flutter project.
 
@@ -180,24 +180,23 @@ To get a local copy up and running, follow these simple steps.
             - assets/lottie/
             - assets/icons/
         ```
-4.  **Run `flutter clean`:**
+4.  **Generate App Launcher Icons (if modifying or updating the icon):**
+    If you change the `image_path` in `pubspec.yaml` under `flutter_launcher_icons` or need to regenerate the native app icons:
+    ```bash
+    flutter pub run flutter_launcher_icons
+    ```
+    *(Note: The generated icon files are committed to the repository, so this step is generally not required for initial setup after cloning.)*
+
+5.  **Run `flutter clean`:**
     ```bash
     flutter clean
     ```
-5.  **Get packages again (just to be safe):**
+6.  **Get packages again (just to be safe):**
     ```bash
     flutter pub get
     ```
 
----
-
-## 6. Usage
-
-To run the app on a connected device or emulator:
-
-```bash
-flutter run
-```
+This way, it's documented for anyone who might need it, but with a clear note that it's not a mandatory step for every clone.
 
 
 
