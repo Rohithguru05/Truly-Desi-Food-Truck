@@ -94,9 +94,9 @@ The "Truly Desi" app comes packed with the following key features and functional
 
 For a comprehensive breakdown of the app's features, functionalities, navigation flows, and detailed screenshots, please refer to our full documentation:
 
-[Truly Desi App - Detailed Documentation](doc/Truly Desi App_ Detailed Features, Functionalities, and Navigation Guide.pdf)
+[Truly Desi App - Detailed Documentation](doc/Truly%20Desi%20App_%20Detailed%20Features,%20Functionalities,%20and%20Navigation%20Guide.pdf)
 
----
+--- 
 
 ## 4. Technologies Used
 
