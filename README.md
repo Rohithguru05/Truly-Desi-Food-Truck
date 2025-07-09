@@ -237,6 +237,6 @@ After successfully building the project for release, the **app-release.apk** fil
 
 build/app/outputs/flutter-apk/app-release.apk
 
-**Alternatively, you can download a zipped version of the APK from our GitHub Releases page. After downloading, you will need to unzip the file to access the app-release.apk and install it on an Android device.**
+**Alternatively, you can download the APK from our GitHub Releases page. After downloading  install it on an Android device.**
 
-(A formal GitHub Release with direct APK download will be provided at a later stage.)
+
