@@ -233,8 +233,10 @@ Project Link: https://github.com/Rohithguru05/Truly-Desi-Food-Truck.git
 ## 11. Latest Release (APK)
 To get a runnable Android APK of the "Truly Desi" app, you will need to build the project locally.
 
-After successfully building the project for release, the app-release.apk file will be located in the following path within your project directory:
+After successfully building the project for release, the **app-release.apk** file will be located in the following path within your project directory:
 
 build/app/outputs/flutter-apk/app-release.apk
 
-You can then copy this file to an Android device for installation. (A formal GitHub Release will be provided at a later stage.)
+Alternatively, you can download a zipped version of the APK from our GitHub Releases page. After downloading, you will need to unzip the file to access the app-release.apk and install it on an Android device.
+
+(A formal GitHub Release with direct APK download will be provided at a later stage.)
