@@ -8,7 +8,7 @@
 
 * [1. Project Overview](#1-project-overview)
 * [2. Features](#2-features)
-* [3. Detalied Documentation](#3-Detailed_Documenataion)
+* [3. Detalied Documentation](#3-detailed-documentation)
 * [4. Technologies Used](#4-technologies-used)
 * [5. Installation](#5-installation)
 * [6. Usage](#6-usage)
@@ -90,17 +90,11 @@ The "Truly Desi" app comes packed with the following key features and functional
 
 ---
 
-## 3. Detalied Documentation
+## 3. Detailed Documentation
 
 For a comprehensive breakdown of the app's features, functionalities, navigation flows, and detailed screenshots, please refer to our full documentation:
 
-[Truly Desi App - Detailed Documentation](Truly Desi App_ Detailed Features, Functionalities, and Navigation Guide.md.pdf)
-
-
-
-
-
-
+**[Truly Desi App - Detailed Documentation](Truly Desi App_ Detailed Features, Functionalities, and Navigation Guide.md.pdf)**
 
 ---
 
