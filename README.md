@@ -61,7 +61,7 @@ The "Truly Desi" app comes packed with the following key features and functional
 * **Intuitive Bottom Navigation:** Easy access to core sections: Home, Menu, Cart, Social, Favorites, and More.
 * **Home Screen:**
     * Dynamic animated logo.
-    * Quick access buttons for "Our Menu," "Order Online," and "Follow Us."
+    * Quick access buttons for "Our Menu," "Order Online," and "Follow Us." 
     * Promotional banners for daily specials and offers.
     * Information card for "Our Story & Location" with direct navigation.
     * Floating action button to "Locate Us."
