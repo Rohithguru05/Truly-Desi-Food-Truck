@@ -203,7 +203,7 @@ flutter run
 
 ## 7. Project Structure
 
-
+```
 truly_desi_app/
 ├── android/                  # Android specific files
 ├── ios/                      # iOS specific files
@@ -223,7 +223,7 @@ truly_desi_app/
 │   └── icons/                # Specific icon assets (e.g., UberEats logo)
 ├── pubspec.yaml              # Project dependencies and metadata
 └── README.md                 # This file
-
+```
 
 
 
@@ -251,5 +251,5 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 ## 10. Contact
- Guru Rohith.G - [prasanth9705.g@gmail.com] (e.g., info@trulydesi.co.nz)
+ Guru Rohith.G - [prasanth9705.g@gmail.com] 
 Project Link: https://github.com/Rohithguru05/Truly-Desi-Food-Truck.git
