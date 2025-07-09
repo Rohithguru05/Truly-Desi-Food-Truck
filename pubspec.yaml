@@ -1,0 +1,46 @@
+name: truly_desi_app
+description: A mobile app concept for Truly Desi Food Truck.
+publish_to: 'none' # Remove this line if you intend to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0' # Adjust based on your Flutter SDK version
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  url_launcher: ^6.2.2          # For opening external links (Uber Eats, Facebook, Instagram, Google Maps)
+  flutter_local_notifications: ^17.1.0 # For local notification simulation
+  carousel_slider: ^5.1.1     # For image carousels (e.g., social media feed)
+  lottie: ^3.1.0              # For Lottie animations (splash screen, loading)
+  provider: ^6.1.2            # For simple state management (e.g., menu filtering, favorites)
+  google_maps_flutter: ^2.6.0  # If you want to embed an interactive map, otherwise use url_launcher
+  shared_preferences: ^2.2.3 
+  font_awesome_flutter: ^10.7.0 # For storing favorite dishes locally (simple persistence)
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/lottie/
+    - assets/icons/
+
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/Montserrat-Regular.ttf
+        - asset: assets/fonts/Montserrat-Bold.ttf
+          weight: 700
+    - family: Poppins # Another common modern font
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
