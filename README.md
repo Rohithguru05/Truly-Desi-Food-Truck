@@ -1,23 +1,5 @@
 # Truly Desi App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
-# Truly Desi App
-
 ## Authentic Indian Flavors, On Wheels!
 
 ![Truly Desi Splash Image](assets/images/lo.jpg)
@@ -34,6 +16,7 @@ samples, guidance on mobile development, and a full API reference.
 * [8. Contributing](#8-contributing)
 * [9. License](#9-license)
 * [10. Contact](#10-contact)
+* [11. Latest Release (APK)](#11-latest-release-apk)
 
 ---
 
@@ -56,12 +39,12 @@ The app aims to enhance the customer experience by providing seamless access to 
 
 The "Truly Desi" app comes packed with the following key features and functionalities:
 
-* **Splash Screen:** A branded introduction with an animated logo and subtle loading indicator.
+* **Splash Screen:** A branded introduction with the app name, tagline, and a subtle loading indicator.
 * **Onboarding Experience:** A guided tour for new users highlighting the app's main functionalities with engaging visuals.
 * **Intuitive Bottom Navigation:** Easy access to core sections: Home, Menu, Cart, Social, Favorites, and More.
 * **Home Screen:**
     * Dynamic animated logo.
-    * Quick access buttons for "Our Menu," "Order Online," and "Follow Us." 
+    * Quick access buttons for "Our Menu," "Order Online," and "Follow Us."
     * Promotional banners for daily specials and offers.
     * Information card for "Our Story & Location" with direct navigation.
     * Floating action button to "Locate Us."
@@ -103,6 +86,7 @@ The "Truly Desi" app comes packed with the following key features and functional
     * Input validation and success/error feedback.
 * **Responsive Design:** Optimized for various screen sizes and orientations (mobile, tablet).
 * **Theming:** Supports both Light and Dark modes for enhanced user comfort.
+* **Custom App Icon:** Integrated custom app launcher icon for Android and iOS.
 
 ---
 
@@ -142,6 +126,7 @@ Here are some screenshots of the "Truly Desi" app in action.
 * **`url_launcher`:** A Flutter plugin for launching URLs (web, email, phone, SMS) from the app.
 * **`font_awesome_flutter`:** For easily using Font Awesome icons in Flutter.
 * **`carousel_slider`:** For creating image carousels (e.g., Instagram feed).
+* **`flutter_launcher_icons`:** Used for generating platform-specific app launcher icons from a single source image.
 
 ---
 
@@ -167,7 +152,7 @@ To get a local copy up and running, follow these simple steps.
     flutter pub get
     ```
 3.  **Ensure assets are correctly placed:**
-    * Create `assets/images/` and `assets/lottie/` and `assets/icons/` directories in the root of your project.
+    * Create `assets/images/`, `assets/lottie/`, and `assets/icons/` directories in the root of your project.
     * Place all necessary image files (`.png`, `.jpg`) into `assets/images/`.
     * Place all Lottie JSON files (`.json`) into `assets/lottie/`.
     * Place `ubereats_logo.png` and `ordermeal_logo.png` into `assets/icons/`.
@@ -196,7 +181,16 @@ To get a local copy up and running, follow these simple steps.
     flutter pub get
     ```
 
-This way, it's documented for anyone who might need it, but with a clear note that it's not a mandatory step for every clone.
+---
+
+## 6. Usage
+
+To run the app on a connected device or emulator:
+
+```bash
+flutter run
+
+```
 
 
 
